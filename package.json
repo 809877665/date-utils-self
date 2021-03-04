@@ -1,0 +1,14 @@
+{
+  "name": "date-utils-self",
+  "version": "1.0.1",
+  "description": "常用的日期处理函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DateUtils TimeUtils Date"
+  ],
+  "author": "zhangwen",
+  "license": "ISC"
+}
