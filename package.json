@@ -1,6 +1,6 @@
 {
   "name": "date-utils-self",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "常用的日期处理函数",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "DateUtils TimeUtils Date"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/809877665/date-utils-self.git"
+  },
   "author": "zhangwen",
   "license": "ISC"
 }
